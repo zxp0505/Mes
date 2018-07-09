@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MesApp.iml" filepath="$PROJECT_DIR$/MesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendarview/calendarview.iml" filepath="$PROJECT_DIR$/calendarview/calendarview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/line/line.iml" filepath="$PROJECT_DIR$/line/line.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/quality/quality.iml" filepath="$PROJECT_DIR$/quality/quality.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repair/repair.iml" filepath="$PROJECT_DIR$/repair/repair.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resource/resource.iml" filepath="$PROJECT_DIR$/resource/resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scanapp/scanapp.iml" filepath="$PROJECT_DIR$/scanapp/scanapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workstation/workstation.iml" filepath="$PROJECT_DIR$/workstation/workstation.iml" />
+    </modules>
+  </component>
+</project>
